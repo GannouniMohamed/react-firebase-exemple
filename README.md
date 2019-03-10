@@ -1,5 +1,5 @@
-# Brainstorming-Web
-Brainstorming voting  app - web part (react - firebase - semantic ui) 
+# React-FireBase-Exemple
+ web app (react - firebase - semantic ui) 
 
 ### Getting Started
 - Create your Firebase Project in `http://console.firebase.google.com`.
@@ -7,7 +7,7 @@ Brainstorming voting  app - web part (react - firebase - semantic ui)
 - Clone project and install dependencies.
 ```
 > git clone 
-> cd Brainstorming-BO
+> cd react-firebase-exemple
 > yarn
 ```
 
